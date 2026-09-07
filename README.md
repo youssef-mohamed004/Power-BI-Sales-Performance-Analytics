@@ -9,7 +9,7 @@
 
 This project is an interactive **Power BI Sales Performance Analytics Dashboard** designed to analyze business performance, identify trends, compare Year-over-Year (YoY) results, and investigate the root causes behind revenue changes.
 
-The project goes beyond simply displaying KPIs by applying different types of data analysis to answer three important business questions:
+The project goes beyond simply displaying KPIs by applying different types of data analysis to answer three important business questions
 
 > **What happened? → How did performance change? → Why did it happen?**
 
